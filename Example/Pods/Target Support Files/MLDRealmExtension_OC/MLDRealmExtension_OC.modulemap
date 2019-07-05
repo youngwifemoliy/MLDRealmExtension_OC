@@ -1,0 +1,6 @@
+framework module MLDRealmExtension_OC {
+  umbrella header "MLDRealmExtension_OC-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MLDRealmExtension_OC_Example' do
+  pod 'MLDRealmExtension_OC', :path => '../'
+  pod 'Realm'
+  target 'MLDRealmExtension_OC_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

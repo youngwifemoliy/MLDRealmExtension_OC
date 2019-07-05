@@ -1,0 +1,27 @@
+{
+  "name": "MLDRealmExtension_OC",
+  "version": "0.1.0",
+  "summary": "Realm模型转",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECPvCqJyrzwAMBBgPMyxVA+rBKc3hzMfvUkntD6tmS9ESUK4=/MLDRealmExtension_OC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECPvCqJyrzwAMBBgPMyxVA+rBKc3hzMfvUkntD6tmS9ESUK4=": "linshanlun@gouuse.cn"
+  },
+  "source": {
+    "git": "https://github.com/MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECPvCqJyrzwAMBBgPMyxVA+rBKc3hzMfvUkntD6tmS9ESUK4=/MLDRealmExtension_OC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MLDRealmExtension_OC/Classes/**/*",
+  "dependencies": {
+    "Realm": [
+
+    ]
+  }
+}

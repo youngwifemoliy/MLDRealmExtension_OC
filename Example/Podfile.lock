@@ -1,0 +1,26 @@
+PODS:
+  - MLDRealmExtension_OC (0.1.0):
+    - Realm
+  - Realm (3.13.1):
+    - Realm/Headers (= 3.13.1)
+  - Realm/Headers (3.13.1)
+
+DEPENDENCIES:
+  - MLDRealmExtension_OC (from `../`)
+  - Realm
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Realm
+
+EXTERNAL SOURCES:
+  MLDRealmExtension_OC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MLDRealmExtension_OC: ead3d9b2fc5cc27f864999c1651d77f648c64a13
+  Realm: 50071da38fe079e0735e47c9f2eae738c68c5996
+
+PODFILE CHECKSUM: 1493aebd2cb14191a2c3110439c5d40797eec317
+
+COCOAPODS: 1.6.0.beta.2

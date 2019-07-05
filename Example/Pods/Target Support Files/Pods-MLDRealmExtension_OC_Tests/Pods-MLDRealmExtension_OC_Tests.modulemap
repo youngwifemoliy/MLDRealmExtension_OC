@@ -1,0 +1,6 @@
+framework module Pods_MLDRealmExtension_OC_Tests {
+  umbrella header "Pods-MLDRealmExtension_OC_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
